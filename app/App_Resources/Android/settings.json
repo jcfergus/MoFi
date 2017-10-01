@@ -1,0 +1,6 @@
+{
+  "appId": "net.thedotin.MoFi",
+  "package": "net.thedotin",
+  "minSdkVersion": 17,
+  "targetSdkVersion": 25
+}

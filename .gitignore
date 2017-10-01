@@ -1,0 +1,10 @@
+node_modules/*
+platforms/*
+app/tests/*.json
+app/tests/session.config.json
+app/tests/auth.config.json
+app/model/**/*.js
+app/views/**/*.js
+app/services/**/*.js
+yarn.lock
+package-lock.json
